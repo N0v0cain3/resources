@@ -1,7 +1,6 @@
 # NODE JS
 <br>
-<p align="center"><img src="
-https://miro.medium.com/max/848/1*cjTEepasR6PPVAvmH4rb8Q.png" width="300"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="300"></p>
 
 <br>
 
