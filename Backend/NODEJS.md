@@ -1,6 +1,8 @@
 # NODE JS
 <br>
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw0PkGED0ZnuWEwA6oFwq1NF&ust=1593452393844000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjxoPGGpeoCFQAAAAAdAAAAABAD" height="120"></p>
+<p align="center"><img src="
+https://miro.medium.com/max/848/1*cjTEepasR6PPVAvmH4rb8Q.png" width="300"></p>
+
 <br>
 
 Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
@@ -20,7 +22,7 @@ Download Node JS from [here](https://nodejs.org/en/download/) and get started.
 eBay, General Electric, GoDaddy, Microsoft, PayPal, Uber, Wikipins, Yahoo!, and Yammer to name a few.
 
 ## Basic Crash Course
-For starting flutter with basics, setting it up and get an idea about various things, you can follow these video tutorials
+For starting Node.js with basics, setting it up and get an idea about various things, you can follow these video tutorials
 
 * [link1](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [link2](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
